@@ -9,9 +9,9 @@ TensorFlow” by Aur´elien G´eron, is based on the 1990 California census. It 
 to machine learning with manageable data size and basic preprocessing needs.
 It includes information about houses in California districts, with summary statistics like:
 - Geographical data: longitude, latitude (numerical variables)
-- Housing statistics: housing median age, total rooms, total bedrooms, population, households, median income,
-median house value (numerical variables)
-- Categorical variable: ocean proximity
+- Housing statistics: housing median_age, total_rooms, total_bedrooms, population, households, median_income,
+median_house_value (numerical variables)
+- Categorical variable: ocean_proximity
   
 The dataset contains 20,640 entries, with 207 missing values in the total bedrooms feature.
 
@@ -33,7 +33,7 @@ The dataset contains 20,640 entries, with 207 missing values in the total bedroo
   - Visualized relationships using correlation heatmaps.
   
 ### 3. Key Findings
-- Housing location plays a crucial role: Coastal areas, particularly near the bay and islands, tend to have higher house values and incomes, while inland areas exhibit lower values.
+- Housing location plays a crucial role: coastal areas, particularly near the bay and islands, tend to have higher house values and incomes, while inland areas exhibit lower values.
 - Newer developments are concentrated inland, while older homes are more common along the coast.
 - Median income is the strongest predictor of house value, reinforcing the link between economic status and housing affordability.
 
