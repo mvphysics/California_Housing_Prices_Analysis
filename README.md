@@ -45,7 +45,7 @@ The dataset contains 20,640 entries, with 207 missing values in the total bedroo
 - Scipy.stats
 
 ## How to Use Code
-- Clone the repository
+- Download the repository
 - Install required dependencies (if not already installed)
 - Run the main.py or the alternative_main.py
 ```
