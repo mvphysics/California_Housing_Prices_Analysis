@@ -50,6 +50,8 @@ The dataset contains 20,640 entries, with 207 missing values in the total bedroo
 - Run the main.py or the alternative_main.py
 ```
 python main.py
+```
+```
 python alternative_main.py
 ```
 - Or run you can open the main_jupiter.ipynb and alternative_main_jupiter.ipynb from your jupiter notebook
