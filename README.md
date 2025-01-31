@@ -54,6 +54,6 @@ python main.py
 ```
 python alternative_main.py
 ```
-- Or run you can open the main_jupiter.ipynb and alternative_main_jupiter.ipynb from your jupiter notebook
+- Or run you can open the main_jupiter.ipynb and alternative_main_jupiter.ipynb from your jupyter notebook
 - View results in output visualizations and correlation reports.
 
